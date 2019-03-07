@@ -49,4 +49,6 @@ python predict_stock_price.py
 
 ![Alt text](run_script.JPG?raw=true "Run Stock Prediction Script")
 
+![Alt text](prediction.JPG?raw=true "Prediction")
+
 
